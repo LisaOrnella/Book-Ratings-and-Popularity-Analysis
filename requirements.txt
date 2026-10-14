@@ -1,0 +1,10 @@
+boto3
+psycopg2-binary
+python-dotenv
+requests
+pandas
+scikit-learn
+matplotlib
+seaborn
+pytest
+groq
